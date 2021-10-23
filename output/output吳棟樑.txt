@@ -1,0 +1,93 @@
+Physical Examination: 
+ Consciousness: Drowsy Lethargy Coma 
+ Mental Status: 
+  J: Impair 
+  O: Impair 
+  M: Impair 
+  A: Impair 
+  C: Impair 
+ Objective Behavior: 
+  Motivation: Fair Good 
+  Cooperation: Fair 
+  Emotional Control: Fair 
+ General Observation: 
+  Hearing: Normal 
+  Vision: Normal 
+  Homonymous hemianopia: NO 
+  Neglect: NO 
+  Use 
+ Palpation: 
+  Pain: NO NA 
+  Edema: NO NA 
+  Subluxation: NO NA 
+  RSD/shoulder hand syndrome: NO NA 
+ Brunnstrom Stage: L side Bilateral 
+  UE: Ⅲ Ⅵ 
+  Hand: Ⅱ Ⅵ 
+  LE: Ⅳ Ⅵ 
+ Muscle Tone: 3+ NA 
+ MAS: 1+ NA 
+ Sensation: Impair NA 
+ ROM: With normal limitation NA 
+ Balance: 
+   Static sitting balance: Fair 
+   Dynamic sitting balance: Poor 
+   Static standing balance: NA 
+   Dynamic standing balance: NA 
+ Functional Mobility: 
+  Rolling: Max A 
+  Bridge: Max A 
+  Sidelying to sit: Max A 
+  Weight shift in sitting: Max A 
+  Sitting to standing: Max A 
+  Transfer: Max A 
+  Ambulation: NA 
+  Up&down step: NA 
+ ADL (FIM) 
+  Self-Care	 
+ 1    A. Eating: 
+ 1    B. Grooming: 
+ 1    C. Bathing: 
+ 1    D. Dressing - Upper Body: 
+ 1    E. Dressing - Lower Body: 
+ 1    F. Toileting: 
+  Sphincter Control	 
+ 1    G. Bladder Management: 
+ 1    H. Bowel Management: 
+  Transfers	 
+ 2    I. Bed, Chair, Wheelchair: 
+ 2    J. Toilet: 
+ 2    K. Tub, Shower: 
+ 1    L. Walk/Wheelchair: 
+ 1    M. Stairs: 
+  Communication	 
+ 2    N. Comprehension: 
+ 2    O. Expression: 
+ 2    P. Social Interaction: 
+ 2    Q. Problem Solving: 
+ 1    R. Memory: 
+ Major 
+  Insufficient muscle power 
+  Insufficient bed mobility (Rolling,Sidelying to sit,Bridge) 
+  Insufficient trasfer ability 
+  Insufficient ability of sitting to standing 
+  Insufficient static/dynamic sitting balance (Reaching training,Stepping) 
+  Insufficient static/dynamic standing balance (Reaching training,Stepping) 
+ Goals: 
+  Improve muscle power 
+  Improve poor bed mobility (Rolling,Sidelying to sit,Bridge) 
+  Improve poor trasfer ability 
+  Improv ability of sitting to standing 
+  Improve static/dynamic sitting balance (Reaching training,Stepping) 
+  Improve static/dynamic standing balance (Reaching training,Stepping) 
+ Treatment Programs: 
+  Tiliting table Traning 
+  Mat exercise (Rolling,Sidelying to sit,Bridge) 
+  Transfer 
+  Sitting balance training(Reaching training,Stepping) 
+  Standing balance training(Reaching training,Stepping) 
+  Sitting to standing training 
+  Locomotion training (Wheel chair) 
+  Muscle strengthening training 
+  Endurance training 
+ 

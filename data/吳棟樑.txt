@@ -1,0 +1,114 @@
+Physical_Examination:
+Consciousness:  ()Clear  (1)Drowsy  (1)Lethargy  ()Stupor  (1)Coma
+Mental_Status:  		
+_J:  ()Normal  (1)Impair  ()NA
+_O:  ()Normal  (1)Impair  ()NA
+_M:  ()Normal  (1)Impair  ()NA
+_A:  ()Normal  (1)Impair  ()NA
+_C:  ()Normal  (1)Impair  ()NA                              
+Objective_Behavior:  
+_Motivation:        ()Poor  (1)Fair  (1)Good
+_Cooperation:       ()Poor  (1)Fair  ()Good
+_Emotional_Control: ()Poor  (1)Fair  ()Good
+General_Observation: 
+_Hearing:                (1)Normal  ()Impair  ()Deaf
+_Vision:                 (1)Normal  ()Impair  ()Blindness
+_Homonymous_hemianopia:  (1)NO  ()Right  ()Left  ()NA
+_Neglect:                (1)NO  ()Right  ()Left  ()NA
+ ()Walk_into_therapy_room_without_qudricane/walker 
+ ()Walk_into_therapy_room_with_qudricane/walker
+ (1)Use_wheel_chair_into_therapy_room
+Palpation: 
+_Pain:                       (1)NO  ()Right  ()Left  (1)NA
+_Edema:                      (1)NO  ()Right  ()Left  (1)NA
+_Subluxation:                (1)NO  ()Right  ()Left  (1)NA
+_RSD/shoulder_hand_syndrome: (1)NO  ()Right  ()Left  (1)NA
+Brunnstrom_Stage:   ()R_side  (1)L_side  (1)Bilateral
+_UE:   ()Ⅰ  ()Ⅱ  (1)Ⅲ  ()Ⅳ  ()Ⅴ  (1)Ⅵ   
+_Hand: ()Ⅰ  (1)Ⅱ  ()Ⅲ  ()Ⅳ  ()Ⅴ  (1)Ⅵ   
+_LE:   ()Ⅰ  ()Ⅱ  ()Ⅲ  (1)Ⅳ  ()Ⅴ  (1)Ⅵ   
+Muscle_Tone: ()0  ()1+  ()2+  (1)3+  ()4+  (1)NA
+MAS:         ()0  (1)1+  ()1  ()2  ()3  ()4  (1)NA
+Sensation:   ()Intact  (1)Impair  ()Absent  (1)NA
+ROM:         (1)With_normal_limitation  ()Limit  (1)NA
+Balance: 
+__Static_sitting_balance:   ()Poor  (1)Fair  ()Good  ()Normal  ()NA
+__Dynamic_sitting_balance:  (1)Poor  ()Fair  ()Good  ()Normal  ()NA
+__Static_standing_balance:  ()Poor  ()Fair  ()Good  ()Normal  (1)NA
+__Dynamic_standing_balance: ()Poor  ()Fair  ()Good  ()Normal  (1)NA
+Functional_Mobility: 
+_Rolling:                 ()Dependent  (1)Max_A  ()Mod_A  ()Min_A  ()Supervision  ()Independent
+_Bridge:                  ()Dependent  (1)Max_A  ()Mod_A  ()Min_A  ()Supervision  ()Independent
+_Sidelying_to_sit:        ()Dependent  (1)Max_A  ()Mod_A  ()Min_A  ()Supervision  ()Independent
+_Weight_shift_in_sitting: ()Dependent  (1)Max_A  ()Mod_A  ()Min_A  ()Supervision  ()Independent
+_Sitting_to_standing:     ()Dependent  (1)Max_A  ()Mod_A  ()Min_A  ()Supervision  ()Independent
+_Transfer:                ()Dependent  (1)Max_A  ()Mod_A  ()Min_A  ()Supervision  ()Independent
+_Ambulation:        (1)NA  ()Dependent  ()Max_A  ()Mod_A  ()Min_A  ()Supervision  ()Independent  ()with_qudricane  ()with_walker
+_Up&down_step:      (1)NA  ()Dependent  ()Max_A  ()Mod_A  ()Min_A  ()Supervision  ()Independent  ()with_qudricane 
+ADL_(FIM)
+_Self-Care	
+___A._Eating:                 (2)1  ()2  ()3  ()4  ()5  ()6  ()7	             
+___B._Grooming:               (2)1  ()2  ()3  ()4  ()5  ()6  ()7	            
+___C._Bathing:                (2)1  ()2  ()3  ()4  ()5  ()6  ()7             
+___D._Dressing_-_Upper_Body:  (2)1  ()2  ()3  ()4  ()5  ()6  ()7  	
+___E._Dressing_-_Lower_Body:  (2)1  ()2  ()3  ()4  ()5  ()6  ()7 	
+___F._Toileting:              (2)1  ()2  ()3  ()4  ()5  ()6  ()7            
+_Sphincter_Control	
+___G._Bladder_Management:     (2)1  ()2  ()3  ()4  ()5  ()6  ()7     
+___H._Bowel_Management:       (2)1  ()2  ()3  ()4  ()5  ()6  ()7 	
+_Transfers	
+___I._Bed,_Chair,_Wheelchair: ()1  (2)2  ()3  ()4  ()5  ()6  ()7  	
+___J._Toilet:                 ()1  (2)2  ()3  ()4  ()5  ()6  ()7
+___K._Tub,_Shower:            ()1  (2)2  ()3  ()4  ()5  ()6  ()7
+ Locomotion	
+___L._Walk/Wheelchair:        (2)1  ()2  ()3  ()4  ()5  ()6  ()7
+___M._Stairs:                 (2)1  ()2  ()3  ()4  ()5  ()6  ()7	
+_Communication	
+___N._Comprehension:          ()1  (2)2  ()3  ()4  ()5  ()6  ()7	
+___O._Expression:             ()1  (2)2  ()3  ()4  ()5  ()6  ()7
+ Social_Cognition	
+___P._Social_Interaction:     ()1  (2)2  ()3  ()4  ()5  ()6  ()7
+___Q._Problem_Solving:        ()1  (2)2  ()3  ()4  ()5  ()6  ()7
+___R._Memory:                 (2)1  ()2  ()3  ()4  ()5  ()6  ()7
+Major problems: 
+ (1)Insufficient_muscle_power
+ ()Insufficient_muscle_flexibility 
+ ()Insufficient_range_of_motion
+ (1)Insufficient_bed_mobility_(Rolling,Sidelying_to_sit,Bridge)
+ (1)Insufficient_trasfer_ability
+ (1)Insufficient_ability_of_sitting_to_standing 
+ (1)Insufficient_static/dynamic_sitting_balance_(Reaching_training,Stepping)
+ (1)Insufficient_static/dynamic_standing_balance_(Reaching_training,Stepping)
+ ()Insufficient_ambulation_ability
+ ()Insufficient_up_and_down_stairs
+ ()Insufficient_FIM_Self-care_ability_(Dressing,Grooming)
+Goals: 
+ (1)Improve_muscle_power
+ ()Improve_muscle_flexibility 
+ ()Improve_range_of_motion_limitation
+ (1)Improve_poor_bed_mobility_(Rolling,Sidelying_to_sit,Bridge)
+ (1)Improve_poor_trasfer_ability
+ (1)Improv_ability_of_sitting_to_standing
+ (1)Improve_static/dynamic_sitting_balance_(Reaching_training,Stepping)
+ (1)Improve_static/dynamic_standing_balance_(Reaching_training,Stepping)
+ ()Improve_ambulation_ability
+ ()Improve_up_and_down_stairs
+ ()Improve_FIM_Self-care_ability(Dressing,Grooming)
+Treatment_Programs: 
+ ()Facilitation_technique_: PNF
+ (1)Tiliting_table_Traning
+ (1)Mat_exercise_(Rolling,Sidelying_to_sit,Bridge)
+ (1)Transfer training
+ (1)Sitting_balance_training(Reaching_training,Stepping)
+ (1)Standing_balance_training(Reaching_training,Stepping)
+ (1)Sitting_to_standing_training
+ (1)Locomotion_training_(Wheel_chair)
+ ()Ambulation_training/Pre-Ambulation_training
+ ()Correct_gait_pattern
+ ()Up_and_down_stairs_training
+ ()Dressing_training
+ ()Grooming_training
+ ()Muscle_stretch
+ ()Passive_range_of_motion_exercise
+ (1)Muscle_strengthening_training
+ (1)Endurance_training
